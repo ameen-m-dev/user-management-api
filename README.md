@@ -531,28 +531,3 @@ pm2 save
 pm2 startup
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 🎯 PayPal Interview Project
-
-This project demonstrates:
-
-- **RESTful API Design**: Proper HTTP methods and status codes
-- **Authentication & Authorization**: JWT tokens with role-based access
-- **Security Best Practices**: Password hashing, input validation, rate limiting
-- **Database Integration**: SQLite with proper connection handling
-- **Error Handling**: Consistent error responses
-- **Professional Development**: Clean code structure and documentation
-- **Enterprise-Ready Architecture**: Scalable and maintainable codebase
-
-Perfect for showcasing backend development skills, security awareness, and professional API development capabilities.
